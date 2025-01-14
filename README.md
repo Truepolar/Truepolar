@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### :poop: Im shit at coding :poop:
 <!--
 **Truepolar/Truepolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
